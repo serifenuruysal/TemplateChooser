@@ -1,7 +1,7 @@
 # TemplateChooser
 -MVP Design Pattern
 
-Integrated with api of Jimdo
+Integrated with Rest Api 
 
 
 Dependencies:
